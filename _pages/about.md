@@ -23,6 +23,6 @@ Avionics, Navigation, and Guidance
 
 Current Coursework
 ==========
-[Mobile Robotics -- A SLAM Course](https://robots.engin.umich.edu/mobilerobotics/)
+[Mobile Robotics](https://robots.engin.umich.edu/mobilerobotics/)
 
 Design of Unmanned Aerial Vehicles
