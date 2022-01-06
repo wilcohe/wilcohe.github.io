@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WillWorld"
+title                    : "Will's World"
 title_separator          : "-"
 name                     : &name "Will Cohen"
 description              : &description "personal description"
