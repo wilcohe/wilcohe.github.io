@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Will Cohen's Personal Site"
+title                    : "WillWorld"
 title_separator          : "-"
 name                     : &name "Will Cohen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Will Cohen"
   avatar           : "profile.png"
-  bio              : "Controls and Autonomy Master's Student. Department of Aerospace Engineering at the University of Michigan. Researcher in the Intelligent Robotics and Autonomy Laboratory."
+  bio              : "Controls and Autonomy Master's Student. <br/> Department of Aerospace Engineering at the University of Michigan. <br/> Researcher in the Intelligent Robotics and Autonomy Laboratory."
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
