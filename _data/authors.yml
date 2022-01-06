@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://wilcohe.github.io"
   email       : "willcohe@umich.edu"
   bio         : "University of Michigan Graduate Student."
-  avatar      : "{{site.base_url }}/images/bio_photo.jpeg"
+  avatar      : "{{ site.base_url }}/images/bio_photo.jpeg"
   twitter     : "name"
   google_plus : "Name"
 
